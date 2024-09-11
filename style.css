@@ -1,0 +1,24 @@
+h1{
+    background-color: rgb(122, 201, 201);
+    border: 2px double black;
+    border-radius:20px ;
+    text-align: center;
+}
+.pracPara{
+    color: red;
+    font-size: 30px;
+
+}
+
+.newClass{
+    background-color: rgb(223, 183, 183);
+}
+.black{
+    background-color: black;
+    color: white;
+    
+}
+.white{
+    background-color: white;
+    color: black;
+}
